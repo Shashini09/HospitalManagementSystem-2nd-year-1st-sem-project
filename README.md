@@ -1,0 +1,1 @@
+Creating an online hospital management system as a group project in my 2nd year, 2nd semester. Using Java for development on an Apache Tomcat server, with MySQL Workbench for database management. The project includes CRUD operations. My role in this project involves managing the inquiry page.
